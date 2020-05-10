@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+        <loc>https://creatio.vip/Wiki/AddInfo/all_command.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/AddInfo/mod.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/BESupport/enter.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/BESupport/features.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/BESupport/info.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/chat.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/citizens.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/music.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/qqgroup.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/quick_shop.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/we.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/Wiki/Plugins/wg.html</loc>
+    </url>
+    <url>
         <loc>https://creatio.vip/Wiki/Survival/city.html</loc>
     </url>
     <url>
@@ -32,6 +68,9 @@
     </url>
     <url>
         <loc>https://creatio.vip/Wiki/wiki_main.html</loc>
+    </url>
+    <url>
+        <loc>https://creatio.vip/donate.html</loc>
     </url>
     <url>
         <loc>https://creatio.vip/index.html</loc>
