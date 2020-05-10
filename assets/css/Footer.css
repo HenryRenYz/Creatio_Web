@@ -1,0 +1,37 @@
+#footer {
+  width: 70%;
+  position: relative;
+  margin-top: -60px;
+  height: 60px;
+  clear: both;
+  /*background: #c6f;*/
+  margin-left: 15%;
+}
+
+a {
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
+span {
+  font-size: 16px;
+}
+
+.table td, .table th {
+  font-size: 16px;
+}
+
+li {
+  font-size: 16px;
+}
+
+.figure-caption.text-center {
+}
+
+#steady {
+  background: linear-gradient(rgb(236,236,236), rgb(168,168,168), rgb(168,168,168), #e7e7e7);
+}
+
